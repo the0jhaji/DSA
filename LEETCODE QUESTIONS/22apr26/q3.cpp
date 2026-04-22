@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+using namespace std;
 class Solution
 {
 public:
@@ -15,3 +18,17 @@ public:
         return k;
     }
 };
+int main()
+{
+    vector<int> nums;
+
+    nums.push_back(1);
+    nums.push_back(1);
+    nums.push_back(2);
+    nums.push_back(1);
+
+    Solution obj;
+    cout << obj.removeElement(nums, 1) << endl;
+
+    return 0;
+}
