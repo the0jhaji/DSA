@@ -4,6 +4,7 @@ int home(int n){
     if(n==1){
         return 1;
     }
+    cout<<n<<" ";
     return 1+home(n-1);
 }
 int main(){
