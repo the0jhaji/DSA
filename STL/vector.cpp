@@ -25,11 +25,24 @@ int main(){
 //     cout<<marks.size()<<endl;
     // marks.clear();
     // cout<<marks.size()<<endl;
-    marks.insert(marks.begin(), 10);
+    // marks.insert(marks.begin(), 10);
     // cout<<marks.size()<<endl;
     //marks.erase(marks.begin());
     
-    cout<<marks.size()<<endl;
+    // cout<<marks.size()<<endl;
+    // for(int i : marks){
+    //     cout<<i <<" ";
+    // }
+    // cout<<endl;
+
+    //creating an iterator
+    vector<int>:: iterator it=marks.begin();
+    while(it!=marks.end()){
+        cout<<*it<<" ";
+        it++;
+    }
+    cout<<endl;
+    
     return 0;
 }
      
