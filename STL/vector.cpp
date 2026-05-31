@@ -23,11 +23,13 @@ int main(){
 //    }
 //     marks.pop_back();
 //     cout<<marks.size()<<endl;
-    marks.clear();
-    cout<<marks.size()<<endl;
+    // marks.clear();
+    // cout<<marks.size()<<endl;
     marks.insert(marks.begin(), 10);
+    // cout<<marks.size()<<endl;
+    //marks.erase(marks.begin());
+    
     cout<<marks.size()<<endl;
-
     return 0;
 }
      
