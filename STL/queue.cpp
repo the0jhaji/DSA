@@ -22,7 +22,7 @@ int main()
     cout << q.front() << endl;
     cout << q.back() << endl;  
     cout << q.size() << endl;
-    q.
+    
     // if (q.empty())
     // {
     //     cout << "Queue is empty" << endl;
