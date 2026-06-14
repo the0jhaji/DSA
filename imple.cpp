@@ -42,8 +42,28 @@ class Trie
     void insertWord(string word){
         insertUtil(root, word);
     }
+    void searchUtil(TrieNode* root, string word){
+        //base case
+        if(word.length()==0){
+            if(root->isTerminal){
+                cout<<"Present"<<endl;
+                    return;
+            }
+            else{
+                cout<<"Not Present"<<endl;
+                return;
+            }
+
+        }
+        int index=word[0]-'A';
+        TrieNode* child;
+        
+        
 };  
 
 int main(){
+    Trie t= new Trie();
+    t.insertWord("ABCD");
+    return 0;
 
 }
