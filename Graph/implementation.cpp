@@ -41,7 +41,7 @@ int main()
     {
         int u, v;
         cin >> u >> v;
-        g.addEdge(u, v, 0); // 0 = undirected
+        g.addEdge(u, v, 1); // 0 = undirected
     }
 
     g.printAdjList();
