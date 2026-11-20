@@ -45,10 +45,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/the0jhaji/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/the0jhaji/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/the0jhaji/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
