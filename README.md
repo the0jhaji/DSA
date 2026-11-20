@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/the0jhaji/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/the0jhaji/DSA/tree/master/1929-concatenation-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/the0jhaji/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/the0jhaji/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Simulation
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the0jhaji/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/the0jhaji/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/the0jhaji/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/the0jhaji/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/the0jhaji/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
