@@ -56,8 +56,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
+| [0779-k-th-symbol-in-grammar](https://github.com/the0jhaji/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/the0jhaji/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/the0jhaji/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
