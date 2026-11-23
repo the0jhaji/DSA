@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/the0jhaji/DSA/tree/master/0485-max-consecutive-ones) |
+| [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the0jhaji/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/the0jhaji/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/the0jhaji/DSA/tree/master/1929-concatenation-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
 | [0400-nth-digit](https://github.com/the0jhaji/DSA/tree/master/0400-nth-digit) |
 | [0779-k-th-symbol-in-grammar](https://github.com/the0jhaji/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3908-valid-digit-number](https://github.com/the0jhaji/DSA/tree/master/3908-valid-digit-number) |
 ## Memoization
 |  |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/the0jhaji/DSA/tree/master/0400-nth-digit) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
