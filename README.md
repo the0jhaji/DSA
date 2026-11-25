@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/the0jhaji/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/the0jhaji/DSA/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/the0jhaji/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/the0jhaji/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/the0jhaji/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/the0jhaji/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/the0jhaji/DSA/tree/master/0392-is-subsequence) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/the0jhaji/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/the0jhaji/DSA/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/the0jhaji/DSA/tree/master/0392-is-subsequence) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/the0jhaji/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/the0jhaji/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
