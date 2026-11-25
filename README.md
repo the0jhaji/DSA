@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/the0jhaji/DSA/tree/master/1929-concatenation-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/the0jhaji/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/the0jhaji/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3934-smallest-unique-subarray](https://github.com/the0jhaji/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/the0jhaji/DSA/tree/master/0400-nth-digit) |
+| [3934-smallest-unique-subarray](https://github.com/the0jhaji/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -103,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/the0jhaji/DSA/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the0jhaji/DSA/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the0jhaji/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the0jhaji/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/the0jhaji/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
