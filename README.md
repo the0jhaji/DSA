@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/the0jhaji/DSA/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/the0jhaji/DSA/tree/master/0485-max-consecutive-ones) |
 | [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the0jhaji/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/the0jhaji/DSA/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/the0jhaji/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/the0jhaji/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
