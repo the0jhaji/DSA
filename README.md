@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/the0jhaji/DSA/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/the0jhaji/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/the0jhaji/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/the0jhaji/DSA/tree/master/3360-stone-removal-game) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/the0jhaji/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/the0jhaji/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/the0jhaji/DSA/tree/master/3360-stone-removal-game) |
 | [3908-valid-digit-number](https://github.com/the0jhaji/DSA/tree/master/3908-valid-digit-number) |
 ## Memoization
 |  |
