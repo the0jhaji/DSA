@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/the0jhaji/DSA/tree/master/0031-next-permutation) |
 | [0078-subsets](https://github.com/the0jhaji/DSA/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/the0jhaji/DSA/tree/master/0485-max-consecutive-ones) |
 | [1352-product-of-the-last-k-numbers](https://github.com/the0jhaji/DSA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/the0jhaji/DSA/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/the0jhaji/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/the0jhaji/DSA/tree/master/0392-is-subsequence) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/the0jhaji/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
